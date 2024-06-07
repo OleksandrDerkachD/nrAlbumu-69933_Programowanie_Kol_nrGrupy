@@ -1,0 +1,7 @@
+git push:
+Komenda `git push` służy do wysyłania zmian w lokalnym repozytorium do zdalnego repozytorium. Jest to proces aktualizacji zdalnego repozytorium o nowe commity, które zostały stworzone lokalnie.
+
+git checkout:
+Komenda `git checkout` służy do przełączania się między gałęziami w repozytorium. Pozwala również na przywracanie plików do ich stanu z określonego commitu.
+
+git commit -m "Dodanie wszystkich plików wykonanych w ramach zadań oraz pliku z opisami poleceń git push, git checkout, git commit"
